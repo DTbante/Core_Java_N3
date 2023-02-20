@@ -18,8 +18,8 @@ public class UserInputDemo {
 		System.out.println("The value of x is: "+x);
 		//System.out.println("The value of x is: "+y);
 		//System.out.println("The value of x is: "+z);
-		//System.out.println("The value of name is: "+x);
-		//System.out.println("The value of x is: "+str);
+		//System.out.println("The value of name is: "+name);
+		//System.out.println("The value of str is: "+str);
 		//System.out.println("The value of x is: "+d);
 	}
 
